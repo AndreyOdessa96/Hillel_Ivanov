@@ -41,5 +41,6 @@ public class Main {
         System.out.println("The maximum element in the array is: " + findMaxElement(arr));
 
         swapMinMax(arr);
+
     }
     }
