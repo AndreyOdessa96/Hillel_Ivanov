@@ -1,4 +1,4 @@
-package dz5;
+package dz5.oop;
 
 class Employee {
     private String name;

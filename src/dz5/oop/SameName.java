@@ -1,4 +1,4 @@
-package dz5_oop.name;
+package dz5.oop;
 
 public class SameName {
 }
